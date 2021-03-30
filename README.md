@@ -15,6 +15,7 @@
 
 ### 📕 Research Paper
 - [Epidor: Sistema de Informação para Dor Crônica No Atual Contexto de Pandemia do Coronavírus](https://revistas.ufpr.br/atoz/article/view/74673)
+- [PRESENTING EPIDOR: A MANAGEMENT INFORMATION SYSTEM TO SUPPORT PAIN MEDICINE](https://www.brazilianjournals.com/index.php/BRJD/article/view/25384)
 
 ### &#x1f4c8; My GitHub Stats
 
