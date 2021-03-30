@@ -13,7 +13,7 @@
 ---
 <p> I am interested in, research and develop IoT Web/Mobile solutions with JavaScript, TypeScript, ReactJS, NodeJS, SQL e NoSQL.
 
-### 📕 Research Paper
+### 📕 Research Papers
 - [Epidor: Sistema de Informação para Dor Crônica No Atual Contexto de Pandemia do Coronavírus](https://revistas.ufpr.br/atoz/article/view/74673)
 - [Presenting Epidor: A Management Information System To Support Pain Medicine](https://www.brazilianjournals.com/index.php/BRJD/article/view/25384)
 
