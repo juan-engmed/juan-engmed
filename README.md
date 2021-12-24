@@ -19,10 +19,6 @@
 
 ### &#x1f4c8; My GitHub Stats
 
-<p align="center">
-<a href="https://github.com/juan-engmed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-engmed&hide=perl,assembly&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <a href="https://github.com/juan-engmed">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juan-engmed&show_icons=true&theme=gruvbox" alt="Catalin's GitHub Stats" />
