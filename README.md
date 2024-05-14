@@ -1,16 +1,3 @@
-<p align="center"> <a href="https://github.com/juan-engmed">
-  <img align="center" width="100%" src="https://www.imagemhost.com.br/images/2021/02/23/capa.png" />
-</a></p>
-
-
-<p align="center">Professional Certifications & Social Media</p>
-<p align="center"><a href="https://www.youracclaim.com/users/juanengmed"><img height="45" src="https://www.imagemhost.com.br/images/2021/02/23/d2e455f37a41d85f6db43eba506997c548348b5a.png"></a>&nbsp&nbsp
-<a href="https://www.linkedin.com/in/juanengmed/"><img height="40" src="https://www.imagemhost.com.br/images/2021/02/23/linkedin.png"></a>&nbsp&nbsp
-<a href="https://www.instagram.com/juan.fsoliveira"><img height="40" src="https://www.imagemhost.com.br/images/2021/02/23/instagram.png"></a>&nbsp&nbsp
-</p>
-
-
----
 <p> I am interested in, research and develop IoT Web/Mobile solutions with JavaScript, NodeJS, SQL e NoSQL.
 
 ### 📕 Research Papers
